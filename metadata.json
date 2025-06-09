@@ -1,0 +1,5 @@
+{
+  "name": "Kurdish Dialect Translator",
+  "description": "An application to translate text between Sorani and Badini Kurdish dialects using the Gemini API. Users can input text in one dialect, and the application will provide the translation in the other, with an option to easily swap dialects.",
+  "requestFramePermissions": []
+}
